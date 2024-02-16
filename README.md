@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshkrdivedi&label=Profile%20views&color=0e75b6&style=flat" alt="riteshkrdivedi" /> </p>
 - 🔭 I’m currently working on **Uss ACM web team**
 
-- 🌱 I’m currently learning **JavaScript, ReactJs, c**
+- 🌱 I’m currently learning **JavaScript, ReactJs, c**,DSA
 
 - 📫 How to reach me **riteshkd2k20@gmail.com**
 
